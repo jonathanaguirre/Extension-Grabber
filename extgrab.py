@@ -1,9 +1,8 @@
 # !/usr/bin/env python
 # The purpose of this script is to find allowed file extensions that may
 # be uploaded to a website. 
-# 
 # Note: The file you start with will be replaced with the file allowed.
-# cp rshell.phtml rshell.php
+
 
 import requests
 import os
